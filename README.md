@@ -45,7 +45,7 @@ Each entry within the database encompasses:
         "Molecular Mass": "4363.006",
         "Charge": -6.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate", "Wells-Dawson"
         ],
         "POM Material": {
             "f3293b14-5fc3-4017-a825-e25e6b8ab056": {
