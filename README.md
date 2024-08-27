@@ -1,4 +1,4 @@
-# Curated Polyoxometalate (POM) Dataset
+# Curated Polyoxometalate Formula Dataset (Curated-POMs)
 
 This repository hosts a systematically curated database of Polyoxometalate (POM) compounds. It is intended as a scholarly resource that provides detailed chemical data on various POMs for academic research, facilitating advancements in chemistry, materials science, and related disciplines.
 
