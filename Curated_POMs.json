@@ -3243,7 +3243,7 @@
         "Molecular Mass": "1086.580",
         "Charge": -5.0,
         "Labels": [
-            "Polyoxomolybdate"
+            "Polyoxomolybdate","Anderson-Evans"
         ],
         "POM Material Formula": {
             "f001b76e-456a-45a5-94a0-ba754e4955df": {
@@ -8218,7 +8218,7 @@
         "Molecular Mass": "1548.002",
         "Charge": -4.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Anderson-Evans"
         ],
         "POM Material Formula": {
             "016a97da-0620-454b-b42c-cf2a44c734e1": {
@@ -9182,7 +9182,7 @@
         "Molecular Mass": "1687.140",
         "Charge": -2.5,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Anderson-Evans"
         ],
         "POM Material Formula": {
             "a7b840eb-0ae1-46d4-8fe8-9048c23da429": {
@@ -9250,7 +9250,7 @@
         "Molecular Mass": "1703.084",
         "Charge": -3.0,
         "Labels": [
-            "Polyoxomolybdate"
+            "Polyoxomolybdate","Anderson-Evans"
         ],
         "POM Material Formula": {
             "3821f9fe-8937-4044-b1e0-e2c10e298408": {
@@ -17881,7 +17881,7 @@
         "Molecular Mass": "2856.850",
         "Charge": -5.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Keggin"
         ],
         "POM Material Formula": {
             "1b6fbbc5-ad55-42c1-951a-29a85fed00f8": {
@@ -18306,7 +18306,7 @@
         "Molecular Mass": "2874.125",
         "Charge": -4.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Keggin"
         ],
         "POM Material Formula": {
             "9a04883f-b175-4421-8a1d-ac5fdd2d4214": {
@@ -18623,7 +18623,7 @@
         "Molecular Mass": "2877.014",
         "Charge": -5.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Keggin"
         ],
         "POM Material Formula": {
             "0a2cb945-8869-4de6-a6ee-87468b15f213": {
@@ -19780,7 +19780,7 @@
         "Molecular Mass": "2920.962",
         "Charge": -6.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Keggin"
         ],
         "POM Material Formula": {
             "f2ea5bc6-48ed-488a-a859-6df7aab21171": {
@@ -24036,7 +24036,7 @@
         "Molecular Mass": "4363.006",
         "Charge": -6.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate", "Wells-Dawson"
         ],
         "POM Material Formula": {
             "f3293b14-5fc3-4017-a825-e25e6b8ab056": {
@@ -24069,7 +24069,7 @@
         "Molecular Mass": "4366.030",
         "Charge": -3.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Wells-Dawson"
         ],
         "POM Material Formula": {
             "58220341-423b-490a-9cf4-45485d7045a9": {
@@ -24931,7 +24931,7 @@
         "Molecular Mass": "4614.441",
         "Charge": -11.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Wells-Dawson"
         ],
         "POM Material Formula": {
             "3d04d1e0-e30f-40df-bcf5-487dcc6941d0": {
@@ -32086,7 +32086,7 @@
         "Molecular Mass": "2900.004",
         "Charge": -6.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate", "Keggin"
         ],
         "POM Material Formula": {
             "ee49d7af-b4b0-4768-bb52-54da03cd0294": {
@@ -36693,7 +36693,7 @@
         "Molecular Mass": "8230.556",
         "Charge": -36.0,
         "Labels": [
-            "Polyoxomolybdate"
+            "Polyoxomolybdate","Anderson-Evans"
         ],
         "POM Material Formula": {
             "472f3071-288b-4e48-9285-6524e9a35c85": {
@@ -43419,7 +43419,7 @@
         "Molecular Mass": "1087.276",
         "Charge": -6.0,
         "Labels": [
-            "Polyoxomolybdate"
+            "Polyoxomolybdate","Anderson-Evans"
         ],
         "POM Material Formula": {
             "49310f0c-72a5-43a6-8d32-21a28ca2053e": {
@@ -44100,7 +44100,7 @@
         "Molecular Mass": "2876.141",
         "Charge": -2.0,
         "Labels": [
-            "Polyoxotungstate"
+            "Polyoxotungstate","Keggin"
         ],
         "POM Material Formula": {
             "606948ef-a78b-4292-bbf5-699b7665ff8f": {
@@ -45101,17 +45101,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "995ef1d1-1847-49b0-a466-3e70067d6b54": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "e4b92bec-c42e-4c54-a233-b7e7631ba810": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "665600c7-be72-4eaf-a9d5-c30dc8fc2e44": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45132,17 +45124,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "a9069d19-13b7-492e-b6a8-eb8a2653744d": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "ccdf002f-e2e6-4ef6-8cc4-e06027c9432c": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "8669d5c1-b9f5-49b1-ac61-612b72736bb7": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45163,17 +45147,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "c92609ad-c088-4ff9-9275-010e77abcafa": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "58982eff-7b12-420a-aa87-4c0a957ba9d2": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "9e80131f-a958-4eb8-9bb8-517be824d7e8": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45194,17 +45170,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "d53a10c1-c4ba-4b51-a4ab-22e8a4210477": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "61587f86-fce1-4d3f-85c8-0397878cecf6": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "7b26eacc-47dd-4e63-8b39-a83d2834ed93": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45225,17 +45193,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "cb9891ee-cffd-49cf-970e-4ffd5fb148d3": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "cc8f9632-6fcd-4982-8f79-80a7de92234d": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "466d7646-0b1b-4512-acf2-c90eea89e0d5": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45256,17 +45216,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "067bf140-542b-4624-aeb1-0d0fff87af74": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "4a617a17-14ab-435d-8ddb-8c9e8053183d": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "2101b4f6-ced4-405a-8398-078aefe073bc": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45287,17 +45239,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "b28727ac-cc36-4402-a0cf-b9b4e7484e87": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "b3cbefd4-0dbe-4cfb-bd48-4cecf46daf83": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "88c1c0db-7f27-4cab-8529-2f63d5c841c7": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45318,17 +45262,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "70398c77-5e8e-46ca-b297-e4439261af4d": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "8a9691b3-54e9-4b79-863f-efce6b0296ab": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "4dcbf7c1-ecd5-4c9d-85fd-c2016c351972": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45349,17 +45285,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "560bbad1-7b45-4f4e-b3e8-e62315ebf78c": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "09f420fb-ec45-4c48-a62f-f1d7d3f45e3c": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "7a7b528d-13b6-4b64-8871-d2081bab46c8": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45380,17 +45308,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "d44e4657-b3f6-4161-865c-d673cd5e465d": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "c14bc8c8-f2da-4d37-9816-f15957719fd4": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "77372d9a-ed29-4848-83fd-c0ac41479502": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45411,17 +45331,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "31083b82-f4f9-4c6b-8d93-cea5aff525cc": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "1e85fbd6-eb6a-4088-a3ae-a03512383050": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "d8be40f3-b501-40a5-bdf4-8097be1f0f21": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45442,17 +45354,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "ffefbc82-a93a-434e-b552-ccef40cb438e": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "2517f15c-38f2-4f54-b35d-96264ffb3080": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "8e1fb2a7-fb4c-4b21-914d-23f2b09bf964": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45473,172 +45377,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "3a7b2f7e-4e06-42e4-bb03-984c508999df": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "102c9c8f-b4cc-4114-be0c-5b06a8b53a68": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201000631"
-            },
-            "502a0fde-9026-4af8-8649-85953c8988f8": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
-            }
-        }
-    },
-    "POM_FEVI": {
-        "POM Formula": "[ScPd12O8(C6H5AsO3)8]5–",
-        "Molecular Formula": "ScPd12C48H40As8O32",
-        "Contains Elements": {
-            "Sc": 1,
-            "Pd": 12,
-            "C": 48,
-            "H": 40,
-            "As": 8,
-            "O": 32
-        },
-        "Molecular Mass": "3050.188",
-        "Charge": -12.0,
-        "Labels": [
-            "Polyoxopalladate"
-        ],
-        "POM Material Formula": {
-            "7ae85741-5f86-4480-ab28-713451e3b392": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "27cfdffa-a06b-4e0a-900b-af459b7b396d": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
-            "2f95ad42-6fc3-4bb8-a9cb-97a06dd649c5": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
-            }
-        }
-    },
-    "POM_XAQO": {
-        "POM Formula": "[MnPd12O8(C6H5AsO3)8]6–",
-        "Molecular Formula": "MnPd12C48H40As8O32",
-        "Contains Elements": {
-            "Mn": 1,
-            "Pd": 12,
-            "C": 48,
-            "H": 40,
-            "As": 8,
-            "O": 32
-        },
-        "Molecular Mass": "3060.17",
-        "Charge": -12.0,
-        "Labels": [
-            "Polyoxopalladate"
-        ],
-        "POM Material Formula": {
-            "de646d68-0281-47a0-8599-2c104e9ded31": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "72bd3e1a-c973-4072-be3f-f064dec2b333": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
-            "90666133-2201-4d4f-b2ee-327e81464d9d": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
-            }
-        }
-    },
-    "POM_ZAZE": {
-        "POM Formula": "[FePd12O8(C6H5AsO3)8]5–",
-        "Molecular Formula": "FePd12C48H40As8O32",
-        "Contains Elements": {
-            "Fe": 1,
-            "Pd": 12,
-            "C": 48,
-            "H": 40,
-            "As": 8,
-            "O": 32
-        },
-        "Molecular Mass": "3061.077",
-        "Charge": -12.0,
-        "Labels": [
-            "Polyoxopalladate"
-        ],
-        "POM Material Formula": {
-            "5bfb9935-74aa-4aac-b842-92d11edd9990": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "c23e4b05-6c5b-4c4e-9d40-7e244c5aef78": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
-            "529c8b55-e444-44fc-88e9-a0a6508c6ee6": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
-            }
-        }
-    },
-    "POM_SUSA": {
-        "POM Formula": "[CoPd12O8(C6H5AsO3)8]6–",
-        "Molecular Formula": "CoPd12C48H40As8O32",
-        "Contains Elements": {
-            "Co": 1,
-            "Pd": 12,
-            "C": 48,
-            "H": 40,
-            "As": 8,
-            "O": 32
-        },
-        "Molecular Mass": "3064.165",
-        "Charge": -12.0,
-        "Labels": [
-            "Polyoxopalladate"
-        ],
-        "POM Material Formula": {
-            "15b57fac-1ce4-4b05-84eb-45ae52797f7f": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "7aad0b13-5584-4dbe-84f3-24715187901e": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
-            "b66d297b-52b8-4268-b0dc-594df7e8a78b": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
-            }
-        }
-    },
-    "POM_GUJE": {
-        "POM Formula": "[NiPd12O8(C6H5AsO3)8]6–",
-        "Molecular Formula": "NiPd12C48H40As8O32",
-        "Contains Elements": {
-            "Ni": 1,
-            "Pd": 12,
-            "C": 48,
-            "H": 40,
-            "As": 8,
-            "O": 32
-        },
-        "Molecular Mass": "3063.925",
-        "Charge": -12.0,
-        "Labels": [
-            "Polyoxopalladate"
-        ],
-        "POM Material Formula": {
-            "005acebf-2040-47ac-9e05-0d6b18980ac3": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "2d23244e-893e-44bd-b4d3-e26735d809ee": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
-            "91f0f2ff-d393-4192-a6ea-9a2d8832f1bc": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45659,14 +45400,6 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "6fded133-102e-4a9c-862a-ebf0bbea69aa": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "286acac8-8d44-46d0-bdcb-b486f2ad324b": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
             "cc1e5758-286a-4a89-953d-e40c225e747f": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/anie.201407090"
@@ -45691,16 +45424,8 @@
         ],
         "POM Material Formula": {
             "b5cbea71-c587-41ad-a565-8e93adcfa033": {
-                "POM Material Formula": "currently not available",
+                "POM Material Formula": "Na9H79O77P8Pd12Zn",
                 "DOI": "10.1002/chem.201200060"
-            },
-            "320d1c1b-7971-4300-8aa2-d54c94991a5e": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
-            "5fbebe7d-bec3-40bd-b646-81e675ff5237": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/anie.201407090"
             }
         }
     },
@@ -45721,14 +45446,6 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "53e1d5c0-0fe6-4440-81eb-fafca8d6ae6d": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "04871bf3-64e2-4eee-8864-96713850510b": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201000631"
-            },
             "fb2dba64-44b3-49f2-a61b-afea01051511": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/anie.201407090"
@@ -45750,14 +45467,6 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "50a2ed64-b0b7-427b-9360-1dc879cbe88f": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "d653f39f-6cb3-4325-9ee4-cb0955b42125": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1021/ic300428g"
-            },
             "a2f49797-3954-4e87-a444-4ed4bf7c65f2": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/ejic.201390088"
@@ -45779,14 +45488,6 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "80938a20-f5f8-45c2-97b0-bf054cb8a11a": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
-            "6117d6e5-2b7d-49b5-ac54-55eb329cdf35": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1021/ic300428g"
-            },
             "a3a60c9d-0901-49e3-8f31-32f672646172": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/ejic.201390088"
@@ -45815,10 +45516,6 @@
             "73ff502a-a55c-4ad1-b3ad-71ec0be7de97": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1021/ic300428g"
-            },
-            "bf2021c8-3565-481e-a3d5-e2ce55f5715d": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/ejic.201390088"
             }
         }
     },
@@ -45844,10 +45541,6 @@
             "8707a55b-06ce-4396-bf24-2136c36cd01d": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1021/ic300428g"
-            },
-            "396373fa-3f51-49b4-b073-c259c912496c": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/ejic.201390088"
             }
         }
     },
@@ -45866,17 +45559,9 @@
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "87623bcb-eea8-48cd-946b-5cc482287f1b": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/chem.201200060"
-            },
             "3205b0e0-027c-430e-ba03-049617d7c4b4": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1021/ic300428g"
-            },
-            "55159b8e-dc1e-446c-81ad-6c58470bd5ad": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/ejic.201390088"
             }
         }
     },
@@ -45902,10 +45587,6 @@
             "40c305a4-4bcb-4cd2-8875-d27beb4bd80c": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1021/ic300428g"
-            },
-            "097e7b28-5eca-40b7-bd43-ea2237642ad8": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/ejic.201390088"
             }
         }
     },
@@ -45931,39 +45612,138 @@
             "fe1ff852-fad6-4af5-827a-a6dbde1ee86d": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1021/ic300428g"
-            },
-            "bfeb9e7a-f8dd-435f-8c82-3e93c2e45e0c": {
-                "POM Material Formula": "currently not available",
-                "DOI": "10.1002/ejic.201390088"
             }
         }
     },
-    "POM_ZUHA": {
-        "POM Formula": "[LuPd12O8(SeO3)8]5–",
-        "Molecular Formula": "LuPd12Se8O32",
+    "POM_JAQE": {
+        "POM Formula": "[FePd12O8(SeO3)8]5–",
+        "Molecular Formula": "FePd12Se8O32",
         "Contains Elements": {
-            "Lu": 1,
+            "Fe": 1,
             "Pd": 12,
             "Se": 8,
             "O": 32
         },
-        "Molecular Mass": "2595.654",
+        "Molecular Mass": "2476.533",
         "Charge": -12.0,
         "Labels": [
             "Polyoxopalladate"
         ],
         "POM Material Formula": {
-            "5d4862e6-7864-4dee-877b-41e467a876fd": {
+            "5d1cd6c1-b6fe-4c3d-917b-bc08a7d467fc": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1002/chem.201200060"
-            },
-            "4017c515-ca1b-494d-8cb0-b5735354b872": {
+            }
+        }
+    },
+    "POM_YADU": {
+        "POM Formula": "[Pd10(CH3COO)12O4(H2O)2]",
+        "Molecular Formula": "Pd10C24H34O32",
+        "Contains Elements": {
+            "Pd": 10,
+            "C": 24,
+            "H": 34,
+            "O": 32
+        },
+        "Molecular Mass": "1898.704",
+        "Charge": -10.0,
+        "Labels": [
+            "Polyoxopalladate"
+        ],
+        "POM Material Formula": {
+            "8f23bc8b-51ce-43e4-be33-6472560f8950": {
+                "POM Material Formula": "currently not available",
+                "DOI": "10.1002/anie.201483871"
+            }
+        }
+    },
+    "POM_NOBE": {
+        "POM Formula": "[SrPd12O6(OH)3(C6H5AsO3)6(OAc)3]4–",
+        "Molecular Formula": "SrPd12C42H33As6O33",
+        "Contains Elements": {
+            "Sr": 1,
+            "Pd": 12,
+            "C": 42,
+            "H": 33,
+            "As": 6,
+            "O": 33
+        },
+        "Molecular Mass": "2879.885",
+        "Charge": -12.0,
+        "Labels": [
+            "Polyoxopalladate"
+        ],
+        "POM Material Formula": {
+            "b009c373-a521-4433-9508-6ddb5f4fe4d8": {
+                "POM Material Formula": "currently not available",
+                "DOI": "10.1002/anie.201407090"
+            }
+        }
+    },
+    "POM_PITU": {
+        "POM Formula": "[Pd15Se10O40]10–",
+        "Molecular Formula": "Pd15Se10O40",
+        "Contains Elements": {
+            "Pd": 15,
+            "Se": 10,
+            "O": 40
+        },
+        "Molecular Mass": "3025.86",
+        "Charge": -15.0,
+        "Labels": [
+            "Polyoxopalladate"
+        ],
+        "POM Material Formula": {
+            "da64d621-6ade-46be-9a06-8a0ef47a3ea6": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1021/ic300428g"
             },
-            "beb790ec-faad-4097-aaf3-0793499caf9b": {
+            "8fc5fdb3-226b-4a22-9b90-994e972bb07b": {
                 "POM Material Formula": "currently not available",
-                "DOI": "10.1002/ejic.201390088"
+                "DOI": "10.1039/b927537a"
+            }
+        }
+    },
+    "POM_QITE": {
+        "POM Formula": "[BaPd15O10(C6H5AsO3)10]8–",
+        "Molecular Formula": "BaPd15C60H50As10O40",
+        "Contains Elements": {
+            "Ba": 1,
+            "Pd": 15,
+            "C": 60,
+            "H": 50,
+            "As": 10,
+            "O": 40
+        },
+        "Molecular Mass": "3893.867",
+        "Charge": -15.0,
+        "Labels": [
+            "Polyoxopalladate"
+        ],
+        "POM Material Formula": {
+            "d39cc3f9-16b3-48c7-b3fc-61dbcacbbb36": {
+                "POM Material Formula": "currently not available",
+                "DOI": "10.1002/anie.201407090"
+            }
+        }
+    },
+    "POM_NARI": {
+        "POM Formula": "[Pd17P10O50]16–",
+        "Molecular Formula": "Pd17P10O50",
+        "Contains Elements": {
+            "Pd": 17,
+            "P": 10,
+            "O": 50
+        },
+        "Molecular Mass": "2918.83",
+        "Charge": -17.0,
+        "Labels": [
+            "Polyoxopalladate"
+        ],
+        "POM Material Formula": {
+            "1c4d89b7-e374-4506-bbd2-ade437d32ba2": {
+                "POM Material Formula": "currently not available",
+                "DOI": "10.1021/ja1105514"
             }
         }
     }
