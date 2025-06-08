@@ -44233,11 +44233,11 @@
         "Labels": [
             "Polyoxotungstate"
         ],
-        "264d6963-28db-42e4-805e-72caa5365dc1": {
-            "POM Material Formula": "currently not available",
-            "DOI": "10.1021/ic0101477"
-        },
         "POM Material Formula": {
+	    "264d6963-28db-42e4-805e-72caa5365dc1": {
+                "POM Material Formula": "currently not available",
+                "DOI": "10.1021/ic0101477"
+            },
             "f64a648c-de8e-4cef-9c53-b3d79ec4088f": {
                 "POM Material Formula": "currently not available",
                 "DOI": "10.1007/s10876-006-0059-8"
